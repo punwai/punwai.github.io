@@ -3,85 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://punwai.github.io/posts/librehealth-radiology/</loc>
+    <loc>https://punwai.github.io/blog/posts/librehealth-radiology/</loc>
     <lastmod>2018-10-26T13:54:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/posts/librehealth-toolkit/</loc>
+    <loc>https://punwai.github.io/blog/posts/librehealth-toolkit/</loc>
     <lastmod>2018-10-26T13:54:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/</loc>
+    <loc>https://punwai.github.io/blog/</loc>
     <lastmod>2018-10-26T13:54:19+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/posts/my-third-post/</loc>
+    <loc>https://punwai.github.io/blog/posts/my-third-post/</loc>
     <lastmod>2018-10-26T13:54:19+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/posts/my-second-post/</loc>
+    <loc>https://punwai.github.io/blog/posts/my-second-post/</loc>
     <lastmod>2018-10-26T13:53:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/posts/librehealth-ehr/</loc>
+    <loc>https://punwai.github.io/blog/posts/librehealth-ehr/</loc>
     <lastmod>2018-10-26T12:39:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/categories/</loc>
+    <loc>https://punwai.github.io/blog/categories/blog/</loc>
+    <lastmod>2018-10-26T13:53:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/tags/djfkjkd/</loc>
-    <lastmod>2018-10-26T12:39:41+07:00</lastmod>
+    <loc>https://punwai.github.io/blog/categories/</loc>
+    <lastmod>2018-10-26T13:53:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/tags/fdf/</loc>
-    <lastmod>2018-10-26T12:39:41+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://punwai.github.io/tags/fede/</loc>
+    <loc>https://punwai.github.io/blog/tags/djfkjkd/</loc>
     <lastmod>2018-10-26T12:39:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/categories/gaming/</loc>
+    <loc>https://punwai.github.io/blog/tags/fdf/</loc>
+    <lastmod>2018-10-26T12:39:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/tags/fede/</loc>
+    <lastmod>2018-10-26T12:39:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/games/</loc>
     <lastmod>2018-10-26T13:54:30+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://punwai.github.io/tags/hello/</loc>
-    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://punwai.github.io/posts/</loc>
-    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://punwai.github.io/tags/super/</loc>
-    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://punwai.github.io/tags/</loc>
+    <loc>https://punwai.github.io/blog/categories/gaming/</loc>
     <lastmod>2018-10-26T12:39:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/hello/</loc>
+    <lastmod>2018-10-26T12:39:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/tags/hello/</loc>
+    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/important/</loc>
+    <lastmod>2018-10-26T13:54:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/posts/</loc>
+    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/radiology/</loc>
+    <lastmod>2018-10-26T13:54:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/sport/</loc>
+    <lastmod>2018-10-26T13:54:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/sports/</loc>
+    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/tags/super/</loc>
+    <lastmod>2018-10-26T13:54:30+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/tags/</loc>
+    <lastmod>2018-10-26T12:39:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://punwai.github.io/blog/categories/toolkit/</loc>
+    <lastmod>2018-10-26T13:54:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -4,14 +4,22 @@
 
 <meta name="generator" content="Hugo 0.49.2" />
 
-<link rel="stylesheet" href='https://punwai.github.io/css/materialize.min.css'>
- 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<link rel="stylesheet" href='https://punwai.github.io/css/test.css'>
+<link rel="stylesheet" href='https://punwai.github.io/blog/css/test.css'>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><body>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<script src="https://code.jquery.com/jquery-3.3.1.js"
+integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<body>
         <div class="socialmedia">
             
                 <a href="https://www.linkedin.com/company/librehealth"><i class="fa fa-linkedin fa-lg"></i></a>
@@ -27,7 +35,7 @@
             
         </div><div class="navbar-fixed">
     <nav>
-        <div class="nav-wrapper white">
+        <div class="nav-wrapper white grey-text">
             <a href="/" class="brand-logo black-text">
                 <img style="height:45px;
                 max-height:100%;
@@ -36,31 +44,99 @@
                 margin-left:20px;
                 margin-bottom:5px;
                 margin-left:50px;
-                " src="https://punwai.github.io/logo.png" alt="LibreHealth">
+                " src="https://punwai.github.io/blog/logo.png" alt="LibreHealth">
             </a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="sass.html">Sass</a></li>
-                <li><a href="badges.html">Components</a></li>
+            <ul id="nav-mobile" class="right hide-on-med-and-down grey-text">
                 <li><a href="collapsible.html">JavaScript</a></li>
             </ul>
         </div>
     </nav>
 </div>
 <div id="content">
-<div class="slider">
-    <ul class="slides">
-        <li class="libre-blue">
-        </li>
-        <li class="libre-dark-blue">
 
-        </li>
-        <li class="libre-orange">
-            
-        </li>
-    </ul>
+<div class="carousel carousel-slider center" data-indicators="true" style="min-height:350px;">
+    <script>
+        $(document).ready(function(){
+            $('.carousel.carousel-slider').carousel({fullWidth: true});
+
+            setInterval(function(){
+                $('.carousel').carousel("next");
+            }, 3000); 
+        });
+    </script>
+    
+    <div class="carousel-item center libre-blue">
+        <div class="container" style=>
+            <div class="row" style="padding:30px;margin-bottom: 40px;">
+                <div class="col s12 m7 " style="">
+                    <div style="padding-left:5%; margin: auto 0">
+                        <h3 style="font-weight:600; padding-top:0; letter-spacing: 1.5px; color: white;">LibreHealth EHR</h1>
+                        <p style="font-weight:600; color: white;">The LibreHealth EHR application is a clinically-focused electronic health record (EHR) system designed to be both easy to use "out of the box" and also customizable for use in a variety of health care settings.</p>            
+                    </div>
+                </div>
+                <div class="col s12 m5">
+                    <img src="img/carousel/librehealth-EHR.png" style="width:100%; height:auto;">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="carousel-item center libre-blue">
+        <div class="container" style=>
+            <div class="row" style="padding:30px;margin-bottom: 40px;">
+                <div class="col s12 m7 " style="">
+                    <div style="padding-left:5%; margin: auto 0">
+                        <h3 style="font-weight:600; padding-top:0; letter-spacing: 1.5px; color: white;">LibreHealth Radiology</h1>
+                        <p style="font-weight:600; color: white;">The LibreHealth Radiology is an open source Radiology Information System, that is written for the LibreHealth Toolkit and manages the clinical workflow of a radiology department.</p>            
+                    </div>
+                </div>
+                <div class="col s12 m5">
+                    <img src="img/carousel/radiology-info-sys.png" style="width:100%; height:auto;">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="carousel-item center libre-blue">
+        <div class="container" style=>
+            <div class="row" style="padding:30px;margin-bottom: 40px;">
+                <div class="col s12 m7 " style="">
+                    <div style="padding-left:5%; margin: auto 0">
+                        <h3 style="font-weight:600; padding-top:0; letter-spacing: 1.5px; color: white;">LibreHealth toolkit</h1>
+                        <p style="font-weight:600; color: white;">The LibreHealth Toolkit software serves as the foundational API and data model for Health IT applications</p>            
+                    </div>
+                </div>
+                <div class="col s12 m5">
+                    <img src="img/carousel/LH-REST-screen.png" style="width:100%; height:auto;">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="carousel-item center libre-blue">
+        <div class="container" style=>
+            <div class="row" style="padding:30px;margin-bottom: 40px;">
+                <div class="col s12 m7 " style="">
+                    <div style="padding-left:5%; margin: auto 0">
+                        <h3 style="font-weight:600; padding-top:0; letter-spacing: 1.5px; color: white;">LibreHealth toolkit API</h1>
+                        <p style="font-weight:600; color: white;">The LibreHealth Toolkit has a powerful REST API along with web components that can be assembled by non-developers to create Health Information Systems that puts patient care in the forefront.</p>            
+                    </div>
+                </div>
+                <div class="col s12 m5">
+                    <img src="img/carousel/LH-REST-screen.png" style="width:100%; height:auto;">
+                </div>
+            </div>
+        </div>
+    </div>
+    
 </div>
+
+
+    
           
 <div class="container" style="">
+    <h3 style="padding-left:0.5%">Recent Posts</h3>
+    <div class="divider"></div>
     <div class="row">
         <br>
         <div class="col s12 m10" style="padding-right:20px;">
@@ -69,20 +145,36 @@
 <div class="col s12 m6 l6 xl4">
     <div class="card" style="border-radius:1px;">
         
-        <a href="https://punwai.github.io/posts/librehealth-radiology/">
+        <a href="https://punwai.github.io/blog/posts/librehealth-radiology/">
             <div class="card-image waves-effect waves-block waves-light libre-blue cardImage" style="border-top-left-radius:1px; border-top-right-radius: 1px;height:250px">
                 
-                    <img class="activator" src="https://punwai.github.io/radiology2.jpg" style="height:100%; width: auto;">
+                    <img class="activator" src="https://punwai.github.io/blog/radiology2.jpg" style="height:100%; width: auto;">
                 
             </div>
         </a>
-        <div class="card-content">
+        <div class="card-content" style="height:270px;">
+                              
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/sports/">
+                    sports
+                </a>
+                
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/games/">
+                    games
+                </a>
+                
+            
             <span style="margin-bottom:0" class="card-title activator grey-text text-darken-4">LibreHealth Radiology</span>
             <div class="grey-text" style="font-size:14px;">
                     <i class="material-icons" style="font-size: 14px;">brush</i> Mark Jones &ensp; <span>Oct 26 2018</span>     
             </div>
     
-            <p style="margin-top:10px; height:130px; font-size:14px;">The LibreHealth Radiology is an open source Radiology Information System, that is written for the LibreHealth Toolkit and manages the clinical workflow of a radiology department. <a href="https://punwai.github.io/posts/librehealth-radiology/">Read More</a>
+            <p style="margin-top:10px; font-size:14px;">The LibreHealth Radiology is an open source Radiology Information System, that is written for the LibreHealth Toolkit and manages the clinical workflow of a radiology department. <a href="https://punwai.github.io/blog/posts/librehealth-radiology/">Read More</a>
             </p>
             
 
@@ -95,20 +187,36 @@
 <div class="col s12 m6 l6 xl4">
     <div class="card" style="border-radius:1px;">
         
-        <a href="https://punwai.github.io/posts/librehealth-toolkit/">
+        <a href="https://punwai.github.io/blog/posts/librehealth-toolkit/">
             <div class="card-image waves-effect waves-block waves-light libre-blue cardImage" style="border-top-left-radius:1px; border-top-right-radius: 1px;height:250px">
                 
-                    <img class="activator" src="https://punwai.github.io/toolkit.png" style="height:100%; width: auto;">
+                    <img class="activator" src="https://punwai.github.io/blog/toolkit.png" style="height:100%; width: auto;">
                 
             </div>
         </a>
-        <div class="card-content">
+        <div class="card-content" style="height:270px;">
+                              
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/toolkit/">
+                    toolkit
+                </a>
+                
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/sport/">
+                    sport
+                </a>
+                
+            
             <span style="margin-bottom:0" class="card-title activator grey-text text-darken-4">LibreHealth Toolkit</span>
             <div class="grey-text" style="font-size:14px;">
                     <i class="material-icons" style="font-size: 14px;">brush</i> Bob Stone &ensp; <span>Oct 26 2018</span>     
             </div>
     
-            <p style="margin-top:10px; height:130px; font-size:14px;">The LibreHealth Toolkit software serves as the foundational API and data model for Health IT applications <a href="https://punwai.github.io/posts/librehealth-toolkit/">Read More</a>
+            <p style="margin-top:10px; font-size:14px;">The LibreHealth Toolkit software serves as the foundational API and data model for Health IT applications <a href="https://punwai.github.io/blog/posts/librehealth-toolkit/">Read More</a>
             </p>
             
 
@@ -121,18 +229,34 @@
 <div class="col s12 m6 l6 xl4">
     <div class="card" style="border-radius:1px;">
         
-        <a href="https://punwai.github.io/posts/my-third-post/">
+        <a href="https://punwai.github.io/blog/posts/my-third-post/">
             <div class="card-image waves-effect waves-block waves-light libre-blue cardImage" style="border-top-left-radius:1px; border-top-right-radius: 1px;height:250px">
                 
             </div>
         </a>
-        <div class="card-content">
+        <div class="card-content" style="height:270px;">
+                              
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/radiology/">
+                    radiology
+                </a>
+                
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/important/">
+                    important
+                </a>
+                
+            
             <span style="margin-bottom:0" class="card-title activator grey-text text-darken-4">My Third Post</span>
             <div class="grey-text" style="font-size:14px;">
                     <i class="material-icons" style="font-size: 14px;">brush</i> Casey Farthing &ensp; <span>Oct 26 2018</span>     
             </div>
     
-            <p style="margin-top:10px; height:130px; font-size:14px;">Please listen carefully and don’t hang up. Those were the first words this unknown male caller said to me when my brother handed me the phone. <a href="https://punwai.github.io/posts/my-third-post/">Read More</a>
+            <p style="margin-top:10px; font-size:14px;">Please listen carefully and don’t hang up. Those were the first words this unknown male caller said to me when my brother handed me the phone. <a href="https://punwai.github.io/blog/posts/my-third-post/">Read More</a>
             </p>
             
 
@@ -145,18 +269,34 @@
 <div class="col s12 m6 l6 xl4">
     <div class="card" style="border-radius:1px;">
         
-        <a href="https://punwai.github.io/posts/my-second-post/">
+        <a href="https://punwai.github.io/blog/posts/my-second-post/">
             <div class="card-image waves-effect waves-block waves-light libre-blue cardImage" style="border-top-left-radius:1px; border-top-right-radius: 1px;height:250px">
                 
             </div>
         </a>
-        <div class="card-content">
+        <div class="card-content" style="height:270px;">
+                              
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/important/">
+                    important
+                </a>
+                
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/blog/">
+                    blog
+                </a>
+                
+            
             <span style="margin-bottom:0" class="card-title activator grey-text text-darken-4">Lorem Ipsum</span>
             <div class="grey-text" style="font-size:14px;">
                     <i class="material-icons" style="font-size: 14px;">brush</i> Tom Tom &ensp; <span>Oct 26 2018</span>     
             </div>
     
-            <p style="margin-top:10px; height:130px; font-size:14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porttitor risus sed nisl finibus imperdiet. Curabitur a nunc non enim fringilla posuere. <a href="https://punwai.github.io/posts/my-second-post/">Read More</a>
+            <p style="margin-top:10px; font-size:14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porttitor risus sed nisl finibus imperdiet. Curabitur a nunc non enim fringilla posuere. <a href="https://punwai.github.io/blog/posts/my-second-post/">Read More</a>
             </p>
             
 
@@ -169,18 +309,34 @@
 <div class="col s12 m6 l6 xl4">
     <div class="card" style="border-radius:1px;">
         
-        <a href="https://punwai.github.io/posts/librehealth-ehr/">
+        <a href="https://punwai.github.io/blog/posts/librehealth-ehr/">
             <div class="card-image waves-effect waves-block waves-light libre-blue cardImage" style="border-top-left-radius:1px; border-top-right-radius: 1px;height:250px">
                 
             </div>
         </a>
-        <div class="card-content">
+        <div class="card-content" style="height:270px;">
+                              
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/gaming/">
+                    gaming
+                </a>
+                
+            
+                
+                
+                <a class="categoriesText" href="https://punwai.github.io/blog/categories/hello/">
+                    hello
+                </a>
+                
+            
             <span style="margin-bottom:0" class="card-title activator grey-text text-darken-4">LibreHealth-EHR</span>
             <div class="grey-text" style="font-size:14px;">
                     <i class="material-icons" style="font-size: 14px;">brush</i>  &ensp; <span>Oct 26 2018</span>     
             </div>
     
-            <p style="margin-top:10px; height:130px; font-size:14px;">The LibreHealth EHR application is a clinically-focused electronic health record (EHR) system designed to be both easy to use &ldquo;out of the box&rdquo; and also customizable for use in a variety of health care settings. <a href="https://punwai.github.io/posts/librehealth-ehr/">Read More</a>
+            <p style="margin-top:10px; font-size:14px;">The LibreHealth EHR application is a clinically-focused electronic health record (EHR) system designed to be both easy to use &ldquo;out of the box&rdquo; and also customizable for use in a variety of health care settings. <a href="https://punwai.github.io/blog/posts/librehealth-ehr/">Read More</a>
             </p>
             
 
@@ -201,27 +357,27 @@
         <ul id="all-tags">
                 
                     
-                        <li>               <a href="https://punwai.github.io/tags/djfkjkd/">djfkjkd</a>
+                        <li>               <a href="https://punwai.github.io/blog/tags/djfkjkd/">djfkjkd</a>
                         </li>
                     
                 
                     
-                        <li>               <a href="https://punwai.github.io/tags/fdf/">fdf</a>
+                        <li>               <a href="https://punwai.github.io/blog/tags/fdf/">fdf</a>
                         </li>
                     
                 
                     
-                        <li>               <a href="https://punwai.github.io/tags/fede/">fede</a>
+                        <li>               <a href="https://punwai.github.io/blog/tags/fede/">fede</a>
                         </li>
                     
                 
                     
-                        <li>               <a href="https://punwai.github.io/tags/hello/">hello</a>
+                        <li>               <a href="https://punwai.github.io/blog/tags/hello/">hello</a>
                         </li>
                     
                 
                     
-                        <li>               <a href="https://punwai.github.io/tags/super/">super</a>
+                        <li>               <a href="https://punwai.github.io/blog/tags/super/">super</a>
                         </li>
                     
                 
@@ -236,7 +392,47 @@
         <ul id="all-tags">
             
                 
-                    <li>               <a href="https://punwai.github.io/categories/gaming/">gaming</a>
+                    <li>               <a href="https://punwai.github.io/blog/categories/blog/">blog</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/games/">games</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/gaming/">gaming</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/hello/">hello</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/important/">important</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/radiology/">radiology</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/sport/">sport</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/sports/">sports</a>
+                    </li>
+                
+            
+                
+                    <li>               <a href="https://punwai.github.io/blog/categories/toolkit/">toolkit</a>
                     </li>
                 
             
@@ -269,10 +465,6 @@
           </div>
         </div>
       </footer>
-        <script src="https://code.jquery.com/jquery-3.3.1.js"
-            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-            crossorigin="anonymous"></script>
-        <script src='https://punwai.github.io/js/materialize.min.js'></script>
-        <script src='https://punwai.github.io/js/test.js'></script>
+        <script src='https://punwai.github.io/blog/js/test.js'></script>
     </body>
 </html>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on LibreHealth</title>
-    <link>http://www.example.org/</link>
+    <link>https://punwai.github.io/</link>
     <description>Recent content in Blog on LibreHealth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Oct 2018 13:54:19 +0700</lastBuildDate>
     
-	<atom:link href="http://www.example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punwai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LibreHealth EHR</title>
-      <link>http://www.example.org/projects/lh-ehr/</link>
+      <link>https://punwai.github.io/projects/lh-ehr/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/projects/lh-ehr/</guid>
+      <guid>https://punwai.github.io/projects/lh-ehr/</guid>
       <description>The LibreHealth EHR application is a clinically-focused electronic health record (EHR) system designed to be both easy to use &amp;ldquo;out of the box&amp;rdquo; and also customizable for use in a variety of health care settings. It builds on the strength of the LibreHealth Toolkit, and adapts many of the proven user experiences built over many years with OpenEMR. It is designed to be a modern, easy-to-use experience for health care professionals in their daily work.</description>
     </item>
     
     <item>
       <title>LibreHealth Radiology</title>
-      <link>http://www.example.org/projects/lh-radiology/</link>
+      <link>https://punwai.github.io/projects/lh-radiology/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/projects/lh-radiology/</guid>
+      <guid>https://punwai.github.io/projects/lh-radiology/</guid>
       <description>Our Radiology suite is a customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
 Vision The Radiology module aims at adding capabilities of a Radiology Information system (RIS) into LibreHealth Toolkit.
 Objectives Develop a module capable of managing information in a radiology department.
@@ -34,20 +34,20 @@ Objectives Develop a module capable of managing information in a radiology depar
     
     <item>
       <title>LibreHealth Toolkit</title>
-      <link>http://www.example.org/projects/lh-toolkit/</link>
+      <link>https://punwai.github.io/projects/lh-toolkit/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/projects/lh-toolkit/</guid>
+      <guid>https://punwai.github.io/projects/lh-toolkit/</guid>
       <description>Our Toolkit software serves as the foundational API and data model for many other Health IT applications. It will be frequently (but not always) utilized as an upstream product for building other LibreHealth software. Toolkit is a fork of the OpenMRS Platform, and builds on its reliability while improving performance and ease of installation and use.
 Features  Community-driven EHR toolkit: Built by and for the community. Your contributions help shape the product.</description>
     </item>
     
     <item>
       <title>Demo Servers</title>
-      <link>http://www.example.org/demos/</link>
+      <link>https://punwai.github.io/demos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/demos/</guid>
+      <guid>https://punwai.github.io/demos/</guid>
       <description>Demo servers The demo servers are meant to showcase the latest developments of the LibreHealth project. Each project should add a link to their demo site through this page.
 LibreHealth Toolkit LTS 1.12.0 demo LibreHealth Toolkit master demo is a deployment that is done by GitLab CI after every commit.
  URL - https://toolkit.librehealth.io/1.12.x Username: Admin Password: Admin123  LibreHealth Toolkit LTS 2.0.0 demo LibreHealth Toolkit LTS 2.0.0 demo is a deployment that is done by GitLab CI after every commit.</description>
@@ -55,38 +55,38 @@ LibreHealth Toolkit LTS 1.12.0 demo LibreHealth Toolkit master demo is a deploym
     
     <item>
       <title>Donate to LibreHealth</title>
-      <link>http://www.example.org/donate/</link>
+      <link>https://punwai.github.io/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/donate/</guid>
+      <guid>https://punwai.github.io/donate/</guid>
       <description>We need your support! LibreHealth is a 100% volunteer-run organization, with all of our contributors (developers, support, and leadership) donating their time and talents. While we would love to have you join our effort, we realize not everyone is able to contribute in this way. That&amp;rsquo;s why we make it easy for you to support us with a financial gift.
 We&amp;rsquo;re part of Software Freedom Conservancy Software Freedom Conservancy, Inc.</description>
     </item>
     
     <item>
       <title>LibreHealth Diversity &amp; Inclusion Team</title>
-      <link>http://www.example.org/teams/diversity/</link>
+      <link>https://punwai.github.io/teams/diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/diversity/</guid>
+      <guid>https://punwai.github.io/teams/diversity/</guid>
       <description>This page has yet to be created. It is coming soon.</description>
     </item>
     
     <item>
       <title>LibreHealth Documentation Team</title>
-      <link>http://www.example.org/teams/documentation/</link>
+      <link>https://punwai.github.io/teams/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/documentation/</guid>
+      <guid>https://punwai.github.io/teams/documentation/</guid>
       <description>This page has yet to be created. It is coming soon.</description>
     </item>
     
     <item>
       <title>LibreHealth EHR for Education</title>
-      <link>http://www.example.org/teams/education/</link>
+      <link>https://punwai.github.io/teams/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/education/</guid>
+      <guid>https://punwai.github.io/teams/education/</guid>
       <description>LibreHealth Electronic Health Record (EHR) for Education The LibreHealth Education Team is lead by the following members of the LibreHealth community. You can join the team, if you would like to contribute to the below mission, vision and objectives. Please feel free to connect with us on LibreHealth Forums
 Members:
  Robert Hoyt (UWF) Saptarshi Purkayastha (IUPUI) Judy Gichoya (Indiana University School of Medicine) Kevin Yeh  About Us: The Steering Committee for LibreHealth EHR had the vision of offering a separate open source electronic health record (EHR) devoted to education.</description>
@@ -94,10 +94,10 @@ Members:
     
     <item>
       <title>LibreHealth Infrastructure Team</title>
-      <link>http://www.example.org/teams/infrastructure/</link>
+      <link>https://punwai.github.io/teams/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/infrastructure/</guid>
+      <guid>https://punwai.github.io/teams/infrastructure/</guid>
       <description>The LibreHealth Infrastructure Team is responsible for maintaining the infrastructure which LibreHealth relies on. Part of this requires that we have consistent monitoring/alerting if systems are misbehaving or become unavailable.
 Services provided to us free as an Open Source organization Datadog We are very gracious to Datadog for providing use of their service free of charge through their open source program.
 About Datadog Datadog is a cloud-based service which provides infrastructure monitoring.</description>
@@ -105,10 +105,10 @@ About Datadog Datadog is a cloud-based service which provides infrastructure mon
     
     <item>
       <title>LibreHealth Steering Committee</title>
-      <link>http://www.example.org/teams/lsc/</link>
+      <link>https://punwai.github.io/teams/lsc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/lsc/</guid>
+      <guid>https://punwai.github.io/teams/lsc/</guid>
       <description>The LibreHealth Steering Committee consists of members who are committed to steering LibreHealth to advance its market and technical success, and who serve as positive ambassadors for the project. The LibreHealth Steering Committee manages non-technical aspects of LibreHealth including funding for shared project infrastructure, marketing and events, and managing LibreHealth trademarks. The Steering Committee leaves all technical decisions to the open source meritocracy.</description>
     </item>
     

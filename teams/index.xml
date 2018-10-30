@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on LibreHealth</title>
-    <link>http://www.example.org/teams/</link>
+    <link>https://punwai.github.io/teams/</link>
     <description>Recent content in Teams on LibreHealth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.example.org/teams/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punwai.github.io/teams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LibreHealth Diversity &amp; Inclusion Team</title>
-      <link>http://www.example.org/teams/diversity/</link>
+      <link>https://punwai.github.io/teams/diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/diversity/</guid>
+      <guid>https://punwai.github.io/teams/diversity/</guid>
       <description>This page has yet to be created. It is coming soon.</description>
     </item>
     
     <item>
       <title>LibreHealth Documentation Team</title>
-      <link>http://www.example.org/teams/documentation/</link>
+      <link>https://punwai.github.io/teams/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/documentation/</guid>
+      <guid>https://punwai.github.io/teams/documentation/</guid>
       <description>This page has yet to be created. It is coming soon.</description>
     </item>
     
     <item>
       <title>LibreHealth EHR for Education</title>
-      <link>http://www.example.org/teams/education/</link>
+      <link>https://punwai.github.io/teams/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/education/</guid>
+      <guid>https://punwai.github.io/teams/education/</guid>
       <description>LibreHealth Electronic Health Record (EHR) for Education The LibreHealth Education Team is lead by the following members of the LibreHealth community. You can join the team, if you would like to contribute to the below mission, vision and objectives. Please feel free to connect with us on LibreHealth Forums
 Members:
  Robert Hoyt (UWF) Saptarshi Purkayastha (IUPUI) Judy Gichoya (Indiana University School of Medicine) Kevin Yeh  About Us: The Steering Committee for LibreHealth EHR had the vision of offering a separate open source electronic health record (EHR) devoted to education.</description>
@@ -41,10 +41,10 @@ Members:
     
     <item>
       <title>LibreHealth Infrastructure Team</title>
-      <link>http://www.example.org/teams/infrastructure/</link>
+      <link>https://punwai.github.io/teams/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/infrastructure/</guid>
+      <guid>https://punwai.github.io/teams/infrastructure/</guid>
       <description>The LibreHealth Infrastructure Team is responsible for maintaining the infrastructure which LibreHealth relies on. Part of this requires that we have consistent monitoring/alerting if systems are misbehaving or become unavailable.
 Services provided to us free as an Open Source organization Datadog We are very gracious to Datadog for providing use of their service free of charge through their open source program.
 About Datadog Datadog is a cloud-based service which provides infrastructure monitoring.</description>
@@ -52,10 +52,10 @@ About Datadog Datadog is a cloud-based service which provides infrastructure mon
     
     <item>
       <title>LibreHealth Steering Committee</title>
-      <link>http://www.example.org/teams/lsc/</link>
+      <link>https://punwai.github.io/teams/lsc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.org/teams/lsc/</guid>
+      <guid>https://punwai.github.io/teams/lsc/</guid>
       <description>The LibreHealth Steering Committee consists of members who are committed to steering LibreHealth to advance its market and technical success, and who serve as positive ambassadors for the project. The LibreHealth Steering Committee manages non-technical aspects of LibreHealth including funding for shared project infrastructure, marketing and events, and managing LibreHealth trademarks. The Steering Committee leaves all technical decisions to the open source meritocracy.</description>
     </item>
     

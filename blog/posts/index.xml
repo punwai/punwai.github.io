@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LibreHealth</title>
+    <link>https://punwai.github.io/blog/posts/</link>
+    <description>Recent content in Posts on LibreHealth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 13:54:30 +0700</lastBuildDate>
+    
+	<atom:link href="https://punwai.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LibreHealth Radiology</title>
+      <link>https://punwai.github.io/blog/posts/librehealth-radiology/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:30 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/posts/librehealth-radiology/</guid>
+      <description>The LibreHealth Radiology is an open source Radiology Information System, that is written for the LibreHealth Toolkit and manages the clinical workflow of a radiology department.</description>
+    </item>
+    
+    <item>
+      <title>LibreHealth Toolkit</title>
+      <link>https://punwai.github.io/blog/posts/librehealth-toolkit/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:26 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/posts/librehealth-toolkit/</guid>
+      <description>The LibreHealth Toolkit software serves as the foundational API and data model for Health IT applications</description>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>https://punwai.github.io/blog/posts/my-third-post/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:19 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/posts/my-third-post/</guid>
+      <description>Please listen carefully and don’t hang up. Those were the first words this unknown male caller said to me when my brother handed me the phone.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://punwai.github.io/blog/posts/my-second-post/</link>
+      <pubDate>Fri, 26 Oct 2018 13:53:47 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/posts/my-second-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porttitor risus sed nisl finibus imperdiet. Curabitur a nunc non enim fringilla posuere.</description>
+    </item>
+    
+    <item>
+      <title>LibreHealth-EHR</title>
+      <link>https://punwai.github.io/blog/posts/librehealth-ehr/</link>
+      <pubDate>Fri, 26 Oct 2018 12:39:41 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/posts/librehealth-ehr/</guid>
+      <description>The LibreHealth EHR application is a clinically-focused electronic health record (EHR) system designed to be both easy to use &amp;ldquo;out of the box&amp;rdquo; and also customizable for use in a variety of health care settings.</description>
+    </item>
+    
+  </channel>
+</rss>

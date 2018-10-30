@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on LibreHealth</title>
+    <link>https://punwai.github.io/blog/categories/</link>
+    <description>Recent content in Categories on LibreHealth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 13:53:47 +0700</lastBuildDate>
+    
+	<atom:link href="https://punwai.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://punwai.github.io/blog/categories/blog/</link>
+      <pubDate>Fri, 26 Oct 2018 13:53:47 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://punwai.github.io/blog/categories/games/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:30 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>https://punwai.github.io/blog/categories/gaming/</link>
+      <pubDate>Fri, 26 Oct 2018 12:39:41 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://punwai.github.io/blog/categories/hello/</link>
+      <pubDate>Fri, 26 Oct 2018 12:39:41 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Important</title>
+      <link>https://punwai.github.io/blog/categories/important/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:19 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/important/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiology</title>
+      <link>https://punwai.github.io/blog/categories/radiology/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:19 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/radiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://punwai.github.io/blog/categories/sport/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:26 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://punwai.github.io/blog/categories/sports/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:30 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolkit</title>
+      <link>https://punwai.github.io/blog/categories/toolkit/</link>
+      <pubDate>Fri, 26 Oct 2018 13:54:26 +0700</pubDate>
+      
+      <guid>https://punwai.github.io/blog/categories/toolkit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
