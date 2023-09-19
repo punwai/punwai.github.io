@@ -1,6 +1,6 @@
 body {
     color: black;
-    font-family: 'Faustina', serif;
+    font-family: 'Faustina', serif !important;
 }
 
 .divider {
